@@ -1,2 +1,5 @@
 LEVEL 1 COMPLETE: I can read instructions
 LEVEL 2 COMPLETE: I can check my Git status
+LEVEL 3 COMPLETE: I can read the Git commit history
+LEVEL 4 COMPLETE: fixed the hallway sign
+LEVEL 5 COMPLETE: I am on my own branch
